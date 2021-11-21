@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐 Website** for a living.
+I make elegant **💻 Distributed Systems, 📱 Mobile apps and 🌐 Websites** for a living.
 
-* 🧐 Interested in full stack. Recent focus on frontend.
-* 💼 Founder at Cub Digital.
-* 🌱 Currently learning flutter.
-* 💻 With 5 years' development working experience.
-* ⛵ Encouraging people for open source collaborations.
+* 🧐 Interested in learning.
+* 🐻 Co-Founder at Cub Digital.
+* 🦊 Co-Founder at Kindello.
+* 🌱 Currently learning NextJS & Tailwind.
+* 💻 With 6 years' development working experience.
 
 * 👑   Some GitHub statistical reports:
 
