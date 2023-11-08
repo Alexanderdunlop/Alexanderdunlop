@@ -2,11 +2,11 @@
 
 Just having fun coding.
 
-## Currently Learning
+Currently Learning:
 
 * NeoVim
 
-## Plan to learn
+Plan to learn:
 
 * GO
 * Rust
