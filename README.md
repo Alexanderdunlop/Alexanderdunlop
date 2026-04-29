@@ -1,3 +1,3 @@
 👋
 
-Just having fun coding.
+Vibes
